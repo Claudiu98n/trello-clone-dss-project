@@ -31,6 +31,10 @@ Next a fost ales pentru benficiile cu care vine dar mai ales server-side renderi
 Material UI accelereaza styling-ul.
 Alegerea unei baze de date relationale precum PostgreSQL este motivata de usurinta utilizarii dar si usurinta clasificarii datelor intr-o baza de date de acest gen, care ulterior poate fi interogata si filtrata pentru generarea de rapoarte.
 
+[Github repo url] (https://github.com/Claudiu98n/trello-clone-dss-project)
+
+[Frontend deployment url] (https://trello-clone-dss-project.vercel.app)
+
 Rulare locala:
 
 1.
@@ -65,5 +69,5 @@ npm run develop --prefix ./server
 
 6.
 
-se poate testa aplicatia pe: http://localhost:3000
-nu este obligatoriu sa se faca cont pe http://localhost:1337, insa se poate vedea structura bazei de date
+se poate testa aplicatia pe: http://localhost:3000;
+cms pe http://localhost:1337.
